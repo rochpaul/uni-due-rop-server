@@ -65,6 +65,6 @@ local.properties
 /.project
 
 
-#TestNG Output
+#TestNG
 test-output/
 
